@@ -83,6 +83,7 @@ h1{
     background: none;
     border: none;
     outline: none;
+    cursor: pointer;
 }
 
 .tool{
