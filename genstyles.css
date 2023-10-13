@@ -12,7 +12,7 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background-color: aquamarine;
+    background-color: rgb(255, 0, 255);
 }
 
 .container{
@@ -116,6 +116,7 @@ h1{
     padding: 2rem ;
 }
 .displaylengthtext p:nth-child(1){
+    color: black;
     font-size:1.5rem;
     color: white;
 
@@ -134,7 +135,7 @@ h1{
 }
 .strength-container p{
     font-size: 1.5rem;
-    color: white;
+    color: black;
 }
 
 .indicator{
